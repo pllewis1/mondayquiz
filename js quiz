@@ -1,0 +1,9 @@
+if ((3+2)===5) {console.log('Hello' + name); }
+if (!false) {
+console.log ('Goodbye '+ name):
+}
+if (3!=2) {
+console.log ('oops!');
+} else {
+console.log('you smell');
+ }
