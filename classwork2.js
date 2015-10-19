@@ -6,4 +6,4 @@ function Dog (name, breed, nose, weight) {
 }
 var walker = new Dog ("Walker", "Golden", "wet", "big");
 
-console.log (walker);
+console.log(walker);
